@@ -11,5 +11,5 @@
 1. [python入门基础知识 —— Python基础](https://github.com/morganfly/morganfly_blog/issues/2)
 
 
-## [服务端摸索]
+## [服务端摸索](https://github.com/morganfly/morganfly_blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E6%9C%8D%E5%8A%A1%E7%AB%AF)
 1. [ubuntu常用指令](https://github.com/morganfly/morganfly_blog/issues/7)
