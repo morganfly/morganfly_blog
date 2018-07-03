@@ -7,6 +7,8 @@
 2. [javaScript的数据结构与算法（二）——链表](https://github.com/morganfly/morganfly_blog/issues/10)
 3. [javaScript的数据结构与算法（三）——集合](https://github.com/morganfly/morganfly_blog/issues/11)
 
+## [小程序常见问题及函数封装](https://github.com/morganfly/morganfly_blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E5%B0%8F%E7%A8%8B%E5%BA%8F)
+1. [微信小程序监听data数据变化(类似VUE中的watch)](https://github.com/morganfly/morganfly_blog/issues/12)
 
 
 ## [python入门](https://github.com/morganfly/morganfly_blog/issues?q=is%3Aissue+is%3Aopen+label%3Apython)
@@ -16,3 +18,5 @@
 
 ## [服务端摸索](https://github.com/morganfly/morganfly_blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E6%9C%8D%E5%8A%A1%E7%AB%AF)
 1. [ubuntu常用指令](https://github.com/morganfly/morganfly_blog/issues/7)
+
+
