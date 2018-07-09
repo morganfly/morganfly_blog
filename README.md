@@ -6,7 +6,7 @@
 1. [javaScript的数据结构与算法（一）——栈和队列](https://github.com/morganfly/morganfly_blog/issues/9)
 2. [javaScript的数据结构与算法（二）——链表](https://github.com/morganfly/morganfly_blog/issues/10)
 3. [javaScript的数据结构与算法（三）——集合](https://github.com/morganfly/morganfly_blog/issues/11)
-4. [javaScript的数据结构与算法（三）——字典和散列表](https://github.com/morganfly/morganfly_blog/issues/13)
+4. [javaScript的数据结构与算法（四）——字典和散列表](https://github.com/morganfly/morganfly_blog/issues/13)
 
 ## [小程序常见问题及函数封装](https://github.com/morganfly/morganfly_blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 1. [微信小程序监听data数据变化(类似VUE中的watch)](https://github.com/morganfly/morganfly_blog/issues/12)
