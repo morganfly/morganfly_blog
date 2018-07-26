@@ -13,6 +13,7 @@
 
 ## [小程序常见问题及函数封装](https://github.com/morganfly/morganfly_blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 1. [微信小程序监听data数据变化(类似VUE中的watch)](https://github.com/morganfly/morganfly_blog/issues/12)
+2. [微信小程序清除button默认样式](https://github.com/morganfly/morganfly_blog/issues/17)
 
 
 ## [python入门](https://github.com/morganfly/morganfly_blog/issues?q=is%3Aissue+is%3Aopen+label%3Apython)
