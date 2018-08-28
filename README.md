@@ -10,8 +10,8 @@
 5. [javaScript的数据结构与算法（五）——二叉搜索树](https://github.com/morganfly/morganfly_blog/issues/19)
 
 ## [javascript的基础知识](https://github.com/morganfly/morganfly_blog/issues?q=is%3Aopen+is%3Aissue+label%3AJavaScript+label%3A%E5%9F%BA%E7%A1%80)
-1.[javascript中常用的非对象数组去重和对象数组去重](https://github.com/morganfly/morganfly_blog/issues/14)
-2.[javaScript中this指向小解](https://github.com/morganfly/morganfly_blog/issues/21)
+1. [javascript中常用的非对象数组去重和对象数组去重](https://github.com/morganfly/morganfly_blog/issues/14)
+2. [javaScript中this指向小解](https://github.com/morganfly/morganfly_blog/issues/21)
 
 ## [小程序常见问题及函数封装](https://github.com/morganfly/morganfly_blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 1. [微信小程序监听data数据变化(类似VUE中的watch)](https://github.com/morganfly/morganfly_blog/issues/12)
