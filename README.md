@@ -13,6 +13,7 @@
 1. [javascript中常用的非对象数组去重和对象数组去重](https://github.com/morganfly/morganfly_blog/issues/14)
 2. [javaScript中this指向小解](https://github.com/morganfly/morganfly_blog/issues/21)
 3. [javaScript中的Error 实例对象](https://github.com/morganfly/morganfly_blog/issues/22)
+4. [javaScript中的虚值:fasly](https://github.com/morganfly/morganfly_blog/issues/23)
 
 ## [小程序常见问题及函数封装](https://github.com/morganfly/morganfly_blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 1. [微信小程序监听data数据变化(类似VUE中的watch)](https://github.com/morganfly/morganfly_blog/issues/12)
