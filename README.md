@@ -1,6 +1,7 @@
 # Blog
 个人博客
 
+[杂项速记](https://github.com/morganfly/morganfly_blog/issues/15)
 
 ## [数据结构与算法](https://github.com/morganfly/morganfly_blog/issues?q=is%3Aissue+is%3Aopen+label%3A%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E5%8E%9F%E7%90%86)
 1. [javaScript的数据结构与算法（一）——栈和队列](https://github.com/morganfly/morganfly_blog/issues/9)
