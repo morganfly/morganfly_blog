@@ -22,6 +22,7 @@
 1. [微信小程序监听data数据变化(类似VUE中的watch)](https://github.com/morganfly/morganfly_blog/issues/12)
 2. [微信小程序清除button默认样式](https://github.com/morganfly/morganfly_blog/issues/17)
 3. [微信小程序IOS系统下时间戳兼容问题(固定时间和当前时间差值获取,并转化为文本)](https://github.com/morganfly/morganfly_blog/issues/20)
+4. [微信小程序跳转关注公众号的几种途径](https://github.com/morganfly/morganfly_blog/issues/28)
 
 
 ## [python入门](https://github.com/morganfly/morganfly_blog/issues?q=is%3Aissue+is%3Aopen+label%3Apython)
