@@ -37,3 +37,5 @@
 
 ## [基础](https://github.com/morganfly/morganfly_blog/labels/%E5%9F%BA%E7%A1%80)
 1. [命令式编程 && 声明式编程 && 函数式编程](https://github.com/morganfly/morganfly_blog/issues/24)
+1. [SVG和CANVAS的区别](https://github.com/morganfly/morganfly_blog/issues/31)
+1. [跳板机和堡垒机的概念](https://github.com/morganfly/morganfly_blog/issues/30)
